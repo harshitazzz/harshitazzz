@@ -1,17 +1,17 @@
-# Hi there 👋, I'm Harshita
+## Hi there , I'm Harshita
 
 Welcome to my GitHub profile! I'm passionate about coding and building amazing projects that make a real-world impact.
 
-## 🚀 About Me
-- 💼 **Full Stack Developer** with expertise in web and cloud technologies
-- 🤖 **Aspiring ML Engineer** exploring machine learning and AI solutions
-- 🏆 **Smart India Hackathon 2025 (SIH'2k25) Winner** - Building innovative solutions for national challenges
-- 🎯 **Hackathon Enthusiast** - Actively participated in multiple hackathons and coding competitions
-- 🔭 Currently working on cutting-edge full-stack projects combining web development and ML
-- 🌱 Continuously learning emerging technologies and best practices in software development
-- 💬 Always happy to collaborate, discuss ideas, and help with technical challenges
+## About Me
+- **Full Stack Developer** with expertise in web and cloud technologies
+- **Aspiring ML Engineer** exploring machine learning and AI solutions
+- **Smart India Hackathon 2025 (SIH'2k25) Winner** - Building innovative solutions for national challenges
+- **Hackathon Enthusiast** - Actively participated in multiple hackathons and coding competitions
+- Currently working on cutting-edge full-stack projects combining web development and ML
+- Continuously learning emerging technologies and best practices in software development
+- Always happy to collaborate, discuss ideas, and help with technical challenges
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages:** JavaScript, TypeScript, Python, Java, C++, SQL, HTML, CSS
 
@@ -23,9 +23,9 @@ Welcome to my GitHub profile! I'm passionate about coding and building amazing p
 
 **ML & Data Science:** Pandas, NumPy, Scikit-learn, Data Analytics, Data Visualization
 
-## 🎯 Featured Projects
+## Featured Projects
 
-### 1. **Tambola - Online Gaming Platform** 🎲
+### 1. **Tambola - Online Gaming Platform** 
 A real-time online Tambola (Housie) web application where users can play with friends from anywhere.
 
 - **Tech Stack:** TypeScript, React, Node.js, Real-time Socket.io
@@ -37,7 +37,7 @@ A real-time online Tambola (Housie) web application where users can play with fr
 - **Repository:** [harshitazzz/Tambola](https://github.com/harshitazzz/Tambola)
 - **Demo:** Check the repository for live demo link
 
-### 2. **Helping Hands - Community Support Platform** 🤝
+### 2. **Helping Hands - Community Support Platform** 
 A community-driven platform connecting people who need help with those willing to provide assistance.
 
 - **Tech Stack:** TypeScript, React, Node.js, MongoDB
@@ -50,7 +50,7 @@ A community-driven platform connecting people who need help with those willing t
 - **Repository:** [harshitazzz/HelpingHands](https://github.com/harshitazzz/HelpingHands)
 - **Demo:** Check the repository for live demo link
 
-### 3. **SIH 2025 Project** 🏆
+### 3. **SIH 2025 Project** 
 Smart India Hackathon 2025 winning project - An innovative solution addressing national challenges through technology and innovation.
 
 - **Achievement:** Selected as Winner in SIH 2025
@@ -58,11 +58,11 @@ Smart India Hackathon 2025 winning project - An innovative solution addressing n
 - **Repository:** Check pinned repositories for the official SIH project
 - **Demo:** Available in project documentation
 
-## 🌐 Connect with Me
+## Connect with Me
 - **GitHub:** [@harshitazzz](https://www.linkedin.com/in/harshita-maheshwari-9b0890309/)
 
 
 ---
 
-⭐️ **Feel free to explore my repositories, contribute to projects, or reach out for collaborations and discussions!**
+ **Feel free to explore my repositories, contribute to projects, or reach out for collaborations and discussions!**
 
