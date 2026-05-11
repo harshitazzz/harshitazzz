@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm passionate about coding and building amazing p
 - 🔭 Currently working on cutting-edge full-stack projects combining web development and ML
 - 🌱 Continuously learning emerging technologies and best practices in software development
 - 💬 Always happy to collaborate, discuss ideas, and help with technical challenges
-- 📫 Reach out to me at [harshitazzz](https://github.com/harshitazzz) on GitHub
 
 ## 💻 Tech Stack
 
@@ -23,9 +22,6 @@ Welcome to my GitHub profile! I'm passionate about coding and building amazing p
 **Databases & Tools:** MongoDB, PostgreSQL, Firebase, Git, Docker, VS Code, Jupyter Notebook
 
 **ML & Data Science:** Pandas, NumPy, Scikit-learn, Data Analytics, Data Visualization
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitazzz&show_icons=true&theme=radical)
 
 ## 🎯 Featured Projects
 
@@ -62,20 +58,11 @@ Smart India Hackathon 2025 winning project - An innovative solution addressing n
 - **Repository:** Check pinned repositories for the official SIH project
 - **Demo:** Available in project documentation
 
-## 🎓 Other Notable Projects
-
-- **E-commerce Platform** - Full-stack e-commerce solution with payment integration
-- **Data Analytics & Visualization** - Blinkit data analysis project with insightful visualizations
-- **Customer Churn Prediction** - ML project predicting customer behavior patterns
-- **Coffee Shop Website** - Responsive web design project showcasing modern UI/UX
-- **Portfolio Projects** - Various portfolio and demonstration projects
-
 ## 🌐 Connect with Me
-- **GitHub:** [@harshitazzz](https://github.com/harshitazzz)
-- **Portfolio:** Check my repositories for live demos and detailed project documentation
+- **GitHub:** [@harshitazzz](https://www.linkedin.com/in/harshita-maheshwari-9b0890309/)
+
 
 ---
 
 ⭐️ **Feel free to explore my repositories, contribute to projects, or reach out for collaborations and discussions!**
 
-*Last Updated: May 2026*
