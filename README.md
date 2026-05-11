@@ -59,7 +59,7 @@ Smart India Hackathon 2025 winning project - An innovative solution addressing n
 - **Demo:** Available in project documentation
 
 ## Connect with Me
-- **GitHub:** [@harshitazzz](https://www.linkedin.com/in/harshita-maheshwari-9b0890309/)
+- **Linkedin:** [@harshitazzz](https://www.linkedin.com/in/harshita-maheshwari-9b0890309/)
 
 
 ---
